@@ -37,7 +37,7 @@ Este script de Node.js envía datos simulados a una tabla de DynamoDB cada 10 se
 
 2. **Ejecuta el script**:
    ```bash
-   node index.js
+   npm run start
    ```
 
    El script comenzará a enviar datos simulados a la tabla de DynamoDB cada 10 segundos.
